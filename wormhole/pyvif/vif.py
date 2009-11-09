@@ -13,6 +13,8 @@ import sys
 
 import pcap
 
+import fivlogic
+
 def main():
     return
 
